@@ -54,7 +54,7 @@ jobs:
         # 创建解码目录
         mkdir -p decoded
         # Base64 解码
-        base64 -d target_file.b64 > decoded/decoded_file.txt
+        base64 -d gfwlist64.txt > gfwlist.txt
         # 提交更新到当前仓库
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
