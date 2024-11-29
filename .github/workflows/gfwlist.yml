@@ -2,11 +2,11 @@ name: Gfwlist Decode
 
 on:
   schedule:
-    - cron: '0 4 * * *' # 每天凌晨4点触发
-  workflow_dispatch: # 手动触发支持
+    - cron: '0 * * * *' # 每小时运行一次
+  workflow_dispatch: # 支持手动触发
 
 jobs:
-  decode-and-update:
+  check-and-update:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,19 +19,45 @@ jobs:
       run: |
         curl -o gfwlist64.txt https://raw.githubusercontent.com/gfwlist/gfwlist/refs/heads/master/gfwlist.txt
 
-    # Step 3: Base64 解码
-    - name: Decode Base64 file
+    # Step 3: 计算文件哈希值
+    - name: Calculate file hash
+      id: file_hash
       run: |
-        mkdir -p decoded
-        base64 -d gfwlist64.txt > gfwlist.txt
+        # 计算目标文件的 SHA256 哈希
+        sha256sum gfwlist64.txt | awk '{print $1}' > current_hash.txt
 
-    # Step 4: 提交解码后的文件到当前仓库
-    - name: Commit and Push changes
-      env:
-        TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    # Step 4: 检查是否有更新
+    - name: Compare hashes
+      id: hash_check
       run: |
+        # 如果 last_hash.txt 不存在，创建一个空文件
+        if [ ! -f last_hash.txt ]; then
+          touch last_hash.txt
+        fi
+        # 获取上次保存的哈希值
+        LAST_HASH=$(cat last_hash.txt)
+        # 获取当前文件的哈希值
+        CURRENT_HASH=$(cat current_hash.txt)
+        # 比较哈希值
+        if [ "$LAST_HASH" = "$CURRENT_HASH" ]; then
+          echo "no_update=true" >> $GITHUB_ENV
+        else
+          echo "no_update=false" >> $GITHUB_ENV
+        fi
+
+    # Step 5: 如果文件有更新，执行解码操作
+    - name: Decode and Update
+      if: env.no_update == 'false'
+      run: |
+        # 保存当前哈希值供下次比较
+        mv current_hash.txt last_hash.txt
+        # 创建解码目录
+        mkdir -p decoded
+        # Base64 解码
+        base64 -d target_file.b64 > decoded/decoded_file.txt
+        # 提交更新到当前仓库
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add gfwlist.txt
-        git commit -m "Auto-update decoded file"
+        git add gfwlist64.txt > gfwlist.txt
+        git commit -m "Update decoded file: $(date)"
         git push origin HEAD
