@@ -31,11 +31,11 @@ jobs:
       id: hash_check
       run: |
         # 如果 last_hash.txt 不存在，创建一个空文件
-        if [ ! -f last_hash.txt ]; then
-          touch last_hash.txt
+        if [ ! -f hash.txt ]; then
+          touch hash.txt
         fi
         # 获取上次保存的哈希值
-        LAST_HASH=$(cat last_hash.txt)
+        LAST_HASH=$(cat hash.txt)
         # 获取当前文件的哈希值
         CURRENT_HASH=$(cat current_hash.txt)
         # 比较哈希值
@@ -50,14 +50,12 @@ jobs:
       if: env.no_update == 'false'
       run: |
         # 保存当前哈希值供下次比较
-        mv current_hash.txt last_hash.txt
-        # 创建解码目录
-        mkdir -p decoded
+        mv current_hash.txt hash.txt
         # Base64 解码
         base64 -d gfwlist64.txt > gfwlist.txt
         # 提交更新到当前仓库
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add gfwlist64.txt > gfwlist.txt
+        git add gfwlist.txt hash.txt
         git commit -m "Update decoded file: $(date)"
         git push origin HEAD
