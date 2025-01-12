@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: QZiCBuiVJrwVYDpxySTygQ
+! Checksum: vin1zPyB3nE4OpffyEyczA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Sat, 04 Jan 2025 11:07:40 -0500
+! Last Modified: Sun, 12 Jan 2025 10:46:59 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -1968,17 +1968,15 @@ zhao.1984.city
 .1eew.com
 .1mobile.com
 |http://*.1mobile.tw
+||1point3acres.com
 ||1pondo.tv
 .2-hand.info
 .2000fun.com/bbs
-.2008xianzhang.info
 ||2008xianzhang.info
 ||2017.hk
 ||2021hkcharter.com
 ||2047.name
 21andy.com/blog
-.21join.com
-.21pron.com
 21sextury.com
 .228.net.tw
 ||233abc.com
@@ -2050,6 +2048,7 @@ taiwannation.50webs.com
 .9001700.com
 |http://908taiwan.org/
 ||91porn.com
+||91porny.com
 ||91vps.club
 .92ccav.com
 .991.com
@@ -3200,14 +3199,14 @@ daxa.cn
 cn.dayabook.com
 .daylife.com/topic/dalai_lama
 ||db.tt
-.dbc.hk/main
 ||dbgjd.com
 ||dcard.tw
 dcmilitary.com
-.ddc.com.tw
+||ddc.com.tw
 .ddhw.info
 ||de-sci.org
 .de-sci.org
+||deadhouse.org
 ||deadline.com
 ||deepai.org
 ||decodet.co
@@ -4645,9 +4644,10 @@ hqmovies.com
 .hrw.org
 ||hrw.org
 hrweb.org
+||hsex.men
 ||hsjp.net
 ||hsselite.com
-|http://hst.net.tw
+||hst.net.tw
 .hstern.net
 .hstt.net
 .htkou.net
