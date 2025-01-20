@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: Tn+26PEG5OK8JR+VDw3J/w
+! Checksum: cMc+WJ7aluivuvLfgEMquA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 20 Jan 2025 01:23:11 -0500
+! Last Modified: Mon, 20 Jan 2025 11:07:57 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -4085,19 +4085,17 @@ godsdirectcontact.org.tw
 ||goldeneyevault.com
 .goldenfrog.com
 ||goldenfrog.com
-.goldjizz.com
-|http://goldjizz.com
 .goldstep.net
 ||goldwave.com
 gongmeng.info
-gongm.in
+||gongm.in
 gongminliliang.com
-.gongwt.com
-|http://gongwt.com
 blog.goo.ne.jp/duck-tail_2009
+good.news
 .gooday.xyz
 ||gooday.xyz
 ||goodhope.school
+||goodnewsnetwork.org
 .goodreads.com
 ||goodreads.com
 .goodreaders.com
@@ -5833,12 +5831,10 @@ noodlevpn.com
 .norbulingka.org
 nordvpn.com
 ||nordvpn.com
+||nos.nl
 ||notepad-plus-plus.org
 ||novelasia.com
-.news.now.com
-|http://news.now.com
-!--|http://news.now.com/home*
-news.now.com%2Fhome
+||now.com
 ||nownews.com
 .nowtorrents.com
 .noypf.com
@@ -8065,7 +8061,6 @@ wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 ||community.windy.com
 ||wingy.site
 .winning11.com
-winwhispers.info
 ||wionews.com
 ||wiredbytes.com
 ||wiredpen.com
@@ -8076,28 +8071,24 @@ winwhispers.info
 ||wisevid.com
 ||whispersystems.org
 .witnessleeteaching.com
-.witopia.net
+||witopia.net
 .wjbk.org
 ||wjbk.org
 ||wmflabs.org
 ||wn.com
-.wnacg.com
-.wnacg.org
-.wo.tc
+||wnacg.com
+||wnacg.org
+||wo.tc
 ||woeser.com
-.wokar.org
 ||wokar.org
-wolfax.com
 ||wolfax.com
 ||wombo.ai
 ||woolyss.com
-woopie.jp
 ||woopie.jp
-woopie.tv
 ||woopie.tv
 ||workatruna.com
-.workerdemo.org.hk
-.workerempowerment.org
+||workerdemo.org.hk
+||workerempowerment.org
 ||workers.dev
 ||workersthebig.net
 .worldcat.org
