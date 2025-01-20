@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: ODW9nI3lEwj1nQPDY8is4w
+! Checksum: Tn+26PEG5OK8JR+VDw3J/w
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 20 Jan 2025 01:18:16 -0500
+! Last Modified: Mon, 20 Jan 2025 01:23:11 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2839,6 +2839,7 @@ cdp2006.org
 |http://changsa.net
 ||channelnewsasia.com
 ||chanworld.org
+||chaos.social
 .chapm25.com
 ||character.ai
 ||chatgpt.com
@@ -6885,6 +6886,7 @@ soundofhope.org
 ||spankbang.com
 .spankingtube.com
 .spankwire.com
+||spatial.io
 ||spb.com
 ||speakerdeck.com
 ||speedify.com
