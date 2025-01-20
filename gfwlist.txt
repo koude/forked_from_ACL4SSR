@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: OxJVBbnqDS5V3iwpU2nUUg
+! Checksum: BaRal5utodgnRGqOoE1nTA
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 20 Jan 2025 12:25:06 -0500
+! Last Modified: Mon, 20 Jan 2025 13:53:31 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -481,6 +481,7 @@ share.dmhy.org
 ||chaoex.com
 ||cobinhood.com
 ||coin2co.in
+||coinbase.com
 ||coinbene.com
 .coinegg.com
 ||coinegg.com
@@ -1546,6 +1547,7 @@ blogspot.com
 ||translate.goog
 ||tv.google
 ||urchin.com
+||usercontent.goog
 !--||www.google
 ||waveprotocol.org
 ||waymo.com
@@ -1725,8 +1727,6 @@ cn.nytstyle.com
 @@||moe.gov.tw
 @@||nankan.gov.tw
 @@||ncree.gov.tw
-@@||necoast-nsa.gov.tw
-@@||siraya-nsa.gov.tw
 @@||cromotc.nat.gov.tw
 @@||tax.nat.gov.tw
 @@||necoast-nsa.gov.tw
@@ -2134,6 +2134,7 @@ adultkeep.net/peepshow/members/main.htm
 .ai-kan.net
 ||ai-kan.net
 ai-wen.net
+||aiosearch.com
 .aiph.net
 ||aiph.net
 .airasia.com
@@ -2236,6 +2237,7 @@ annatam.com/chinese
 ||ancsconf.org
 ||andfaraway.net
 ||android-x86.org
+||androidapksfree.com
 angelfire.com/hi/hayashi
 ||angularjs.org
 animecrazy.net
@@ -2335,6 +2337,7 @@ asg.to
 ||asiaone.com
 .asiatgp.com
 .asiatoday.us
+||ask.com
 ||askstudent.com
 .askynz.net
 ||askynz.net
@@ -2770,6 +2773,7 @@ catholic.org.tw
 .cathvoice.org.tw
 ||cato.org
 ||cattt.com
+||caus.com
 .cbc.ca
 ||cbc.ca
 .cbsnews.com/video
@@ -2885,6 +2889,7 @@ chinacomments.org
 chinachannel.hk
 ||chinachannel.hk
 .chinacitynews.be
+||chinademocrats.org
 .chinadialogue.net
 .chinadigitaltimes.net
 ||chinadigitaltimes.net
@@ -3316,6 +3321,7 @@ dongtaiwang.com
 |http://danbooru.donmai.us
 .dontfilter.us
 ||dontmovetochina.com
+||doourbest.org
 .dorjeshugden.com
 .dotplane.com
 ||dotplane.com
@@ -3886,6 +3892,7 @@ fuckgfw.org
 .fulione.com
 |https://fulione.com
 ||fullerconsideration.com
+||fullservicegame.com
 fulue.com
 .funf.tw
 funp.com
@@ -4052,7 +4059,8 @@ gigporno.ru
 ||gizlen.net
 .gjczz.com
 ||gjczz.com
-globaljihad.net
+||glarity.app
+||globaljihad.net
 globalmediaoutreach.com
 globalmuseumoncommunism.org
 ||globalrescue.net
@@ -5012,8 +5020,7 @@ zhao.jinhai.de
 jingpin.org
 ||jingpin.org
 jinpianwang.com
-.jinroukong.com
-ac.jiruan.net
+||jinrizhiyi.news
 ||jitouch.com
 .jizzthis.com
 jjgirls.com
@@ -5021,12 +5028,10 @@ jjgirls.com
 |http://jkb.cc
 jkforum.net
 ||jma.go.jp
-research.jmsc.hku.hk/social
-weiboscope.jmsc.hku.hk
+||jmsc.hku.hk
 .jmscult.com
 |http://jmscult.com
 ||joachims.org
-||jobso.tv
 .sunwinism.joinbbs.net
 ||joinclubhouse.com
 ||jornaldacidadeonline.com.br
@@ -7432,7 +7437,6 @@ tsquare.tv
 .tsu.org.tw
 tsunagarumon.com
 !--|http://www.tsuru-bird.net/
-.tsctv.net
 ||tt1069.com
 .tttan.com
 ||tttan.com
@@ -8291,7 +8295,7 @@ yegle.net
 !--yfrog.com
 ||yhcw.net
 .yibada.com
-.yibaochina.com
+||yibaochina.com
 .yidio.com
 ||yidio.com
 ||yigeni.com
