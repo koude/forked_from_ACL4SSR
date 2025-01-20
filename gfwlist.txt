@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: cMc+WJ7aluivuvLfgEMquA
+! Checksum: d2HlLEJFEnR+RVzygYLawg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 20 Jan 2025 11:07:57 -0500
+! Last Modified: Mon, 20 Jan 2025 11:45:21 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -144,6 +144,7 @@ share.dmhy.org
 ||kkbox.com
 ||leisurepro.com
 ||lifemiles.com
+||lih.kg
 ||longtoes.com
 ||lovetvshow.com
 |http://www.m-sport.co.uk
@@ -2588,6 +2589,7 @@ bonbonme.com
 ||bookdepository.com
 bookepub.com
 ||books.com.tw
+||bookwalker.com.tw
 ||borgenmagazine.com
 ||botanwang.com
 .bot.nu
@@ -3715,6 +3717,7 @@ finler.net
 ||fireofliberty.org
 .firetweet.io
 ||firetweet.io
+||open.firstory.me
 ||firstpost.com
 ||firstrade.com
 ||fish.audio
@@ -4439,7 +4442,7 @@ hahlo.com
 ||hardsextube.com
 .harunyahya.com
 |http://harunyahya.com
-bbs.hasi.wang
+||b.hatena.ne.jp
 have8.com
 @@||haygo.com
 .hclips.com
@@ -4958,23 +4961,22 @@ jamaat.org
 .jandyx.com
 ||janwongphoto.com
 ||japan-whores.com
+||japanhdv.com
 .jav.com
 .jav101.com
-.jav2be.com
-||jav2be.com
 .jav68.tv
 .javakiba.org
-|http://javakiba.org
+||javakiba.org
 .javbus.com
 ||javbus.com
 ||javfor.me
 .javhd.com
 .javhip.com
 .javmobile.net
-|http://javmobile.net
+||javmobile.net
 .javmoo.com
 .javseen.com
-|http://javseen.com
+||javseen.com
 jbtalks.cc
 jbtalks.com
 jbtalks.my
@@ -5431,6 +5433,7 @@ jihadintel.meforum.org
 ||mega.co.nz
 ||mega.io
 ||mega.nz
+||megalodon.jp
 ||megaproxy.com
 ||megarotic.com
 megavideo.com
@@ -5567,6 +5570,7 @@ molihua.org
 .moonbbs.com
 ||moonbbs.com
 ||moptt.tw
+||moneydj.com
 ||monica.im
 ||monitorchina.org
 ||monocloud.me
@@ -6048,10 +6052,9 @@ pastebin.com
 ||pastie.org
 ||blog.pathtosharepoint.com
 ||patreon.com
+||patreonusercontent.com
 ||pawoo.net
-pbs.org/wgbh/pages/frontline/tankman
-pbs.org/wgbh/pages/frontline/tibet
-video.pbs.org
+||pbs.org
 
 !--Pbwiki
 pbwiki.com
@@ -7169,8 +7172,7 @@ thefrontier.hk/tf
 ||thegay.com
 |http://thegioitinhoc.vn/
 .thegly.com
-.thehots.info
-thehousenews.com
+||thehindu.com
 ||thehun.net
 .theinitium.com
 ||theinitium.com
@@ -7200,6 +7202,7 @@ thetrotskymovie.com
 ||thetvdb.com
 thevivekspot.com
 ||thewgo.org
+||thewirechina.com
 .theync.com
 |http://theync.com
 .thinkingtaiwan.com
