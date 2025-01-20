@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: d2HlLEJFEnR+RVzygYLawg
+! Checksum: OxJVBbnqDS5V3iwpU2nUUg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 20 Jan 2025 11:45:21 -0500
+! Last Modified: Mon, 20 Jan 2025 12:25:06 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -538,6 +538,7 @@ share.dmhy.org
 ||paxful.com
 ||poolin.com
 ||rightbtc.com
+||simpleswap.io
 ||solv.finance
 ||topbtc.com
 ||tronscan.org
@@ -2740,6 +2741,7 @@ caochangqing.com
 ||caochangqing.com
 .cap.org.hk
 ||cap.org.hk
+||caoporn.us
 .carabinasypistolas.com
 cardinalkungfoundation.org
 ||posts.careerengine.us
@@ -3746,6 +3748,7 @@ flickrhivemind.net
 .fling.com
 ||flipkart.com
 ||flog.tw
+||flowhongkong.net
 .flyvpn.com
 ||flyvpn.com
 |http://cn.fmnnow.com
@@ -3782,6 +3785,7 @@ foxtang.com
 ||fpmtmexico.org
 fqok.org
 ||fqrouter.com
+||frank2019.me
 ||franklc.com
 .freakshare.com
 |http://freakshare.com
@@ -5153,6 +5157,7 @@ killwall.com
 .ksdl.org
 .ksnews.com.tw
 ||ktzhk.com
+||kuaichedao.co
 .kui.name/event
 ||kukuku.uk
 kun.im
@@ -5466,23 +5471,20 @@ metacafe.com/watch
 .metrohk.com.hk/?cmd=detail&categoryID=2
 ||metrolife.ca
 .metroradio.com.hk
-|http://metroradio.com.hk
+||metroradio.com.hk
 ||mewe.com
-meyou.jp
-.meyul.com
 ||mgoon.com
 ||mgstage.com
 ||mh4u.org
 mhradio.org
-|http://michaelanti.com
 ||michaelmarketl.com
-|http://bbs.mikocon.com
-.microvpn.com
-|http://microvpn.com
+||bbs.mikocon.com
+||microvpn.com
 middle-way.net
 .mihk.hk/forum
 .mihr.com
-mihua.org
+||mihua.org
+||mikanani.me
 !--IP
 ||mikesoltys.com
 .milph.net
@@ -6230,6 +6232,7 @@ postadult.com
 ||powercx.com
 .powerphoto.org
 ||www.powerpointninja.com
+||ppy.sh
 ||presidentlee.tw
 ||cdn.printfriendly.com
 .pritunl.com
@@ -6242,9 +6245,9 @@ proxyanonimo.es
 ||proxynetwork.org.uk
 ||pts.org.tw
 .pttvan.org
-pubu.com.tw
-puffinbrowser.com
-pureinsight.org
+||pubu.com.tw
+||puffinbrowser.com
+||pureinsight.org
 .pushchinawall.com
 .putty.org
 ||putty.org
@@ -6888,6 +6891,7 @@ soundofhope.org
 ||spatial.io
 ||spb.com
 ||speakerdeck.com
+||speedcat.me
 ||speedify.com
 spem.at
 ||spencertipping.com
