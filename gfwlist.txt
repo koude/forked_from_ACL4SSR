@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: BaRal5utodgnRGqOoE1nTA
+! Checksum: rb09xkhwHWp32Lc8pg5+pw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Mon, 20 Jan 2025 13:53:31 -0500
+! Last Modified: Mon, 20 Jan 2025 17:58:31 -0500
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -262,6 +262,7 @@ share.dmhy.org
 |http://ecsm.vs.com/
 ||wanz-factory.com
 ||ssl.webpack.de
+||weebly.com
 ||wheretowatch.com
 ||wingamestore.com
 ||wizcrafts.net
@@ -389,6 +390,7 @@ share.dmhy.org
 ||picacomic.com
 ||pincong.rocks
 ||pixiv.net
+||pixivsketch.net
 ||potato.im
 ||premproxy.com
 ||prism-break.org
@@ -2572,6 +2574,7 @@ blogtd.net
 ||bloomfortune.com
 blueangellive.com
 ||blubrry.com
+||bmdru.com
 .bmfinn.com
 .bnews.co
 ||bnews.co
@@ -3349,8 +3352,7 @@ dpp.org.tw
 |http://drmingxia.org
 ||dropbooks.tv
 ||dropbox.com
-||api.dropboxapi.com
-||notify.dropboxapi.com
+||dropboxapi.com
 ||dropboxusercontent.com
 drsunacademy.com
 .drtuber.com
@@ -5563,7 +5565,7 @@ mnewstv.com
 ||mod.io
 ||modernchinastudies.org
 ||moeerolibrary.com
-wiki.moegirl.org
+||moeshare.cc
 .mofaxiehui.com
 .mofos.com
 ||mog.com
@@ -6153,6 +6155,7 @@ piraattilahti.org
 ||pixnet.net
 .pixnet.net
 .pk.com
+||pkqjiasu.com
 ||placemix.com
 !--.planetsuzy.org
 ||play-asia.com
@@ -6498,6 +6501,7 @@ rfaweb.org
 .roboforex.com
 ||robustnessiskey.com
 !--||roc-taiwan.org
+||rocket.chat
 ||rocket-inc.net
 |http://www2.rocketbbs.com/11/bbs.cgi?id=5mus
 |http://www2.rocketbbs.com/11/bbs.cgi?id=freemgl
@@ -7344,10 +7348,11 @@ tibetoffice.eu
 .timsah.com
 ||timtales.com
 ||blog.tiney.com
+||tingtalk.me
 tintuc101.com
 .tiny.cc
-|http://tiny.cc
-tinychat.com
+||tiny.cc
+||tinychat.com
 ||tinypaste.com
 ||tipas.net
 .tistory.com
@@ -7760,6 +7765,7 @@ usus.cc
 .utopianpal.com
 ||utopianpal.com
 .uu-gg.com
+||uujiasu.com
 .uvwxyz.xyz
 ||uvwxyz.xyz
 .uwants.com
@@ -8179,10 +8185,10 @@ xanga.com
 ||xcafe.in
 ||xcity.jp
 .xcritic.com
-|http://cdn*.xda-developers.com
-.xerotica.com
+||xerotica.com
 destiny.xfiles.to/ubbthreads
 .xfm.pp.ru
+||xfxssr.me
 .xgmyd.com
 ||xgmyd.com
 xhamster.com
