@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: 8eF7ev5C1CD7WR48GBsGVA
+! Checksum: Q+ounXLLKMYuzsjAeeTYvw
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Thu, 27 Feb 2025 22:29:48 -0500
+! Last Modified: Sun, 02 Mar 2025 21:40:21 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -2880,6 +2880,7 @@ dongtaiwang.com
 |http://danbooru.donmai.us
 .dontfilter.us
 ||dontmovetochina.com
+||doosho.com
 ||doourbest.org
 .dorjeshugden.com
 .dotplane.com
@@ -7629,6 +7630,7 @@ whylover.com
 ||wikileaks.pl
 .wikileaks-forum.com
 wildammo.com
+||wilsoncenter.org
 .williamhill.com
 ||collateralmurder.com
 ||collateralmurder.org
