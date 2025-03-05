@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: ZldJa4CW/u54JduQRE+47w
+! Checksum: OB2KGMMsX2yNgYKy9ZfCrg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Wed, 05 Mar 2025 18:08:01 +0800
+! Last Modified: Wed, 05 Mar 2025 18:44:39 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -16,6 +16,7 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !---------403/451/503/520 & URL Redirects---------
+||blogjav.net
 ||zoominfo.com
 ||ptwxz.com
 ||miuipolska.pl
@@ -444,6 +445,7 @@
 ||cdn.seatguru.com
 ||secure.raxcdn.com
 ||redd.it
+||redditspace.com
 ||reddit.com
 .redditlist.com
 |http://redditlist.com
@@ -620,10 +622,9 @@ china-mmm.sa.com
 .now.im
 
 !!---Amazon---
+||payments-jp.amazon.com
 ||amazon.co.jp
-.amazon.com/Dalai-Lama
-amazon.com/Prisoner-State-Secret-Journal-Premier
-s3-ap-northeast-1.amazonaws.com
+||s3-ap-*.amazonaws.com
 
 !!---AOL---
 ||aolchannels.aol.com
@@ -926,6 +927,18 @@ bloomberg.de
 ||ftchinese.com
 
 !!---Google---
+||doc.new
+||form.new
+||forms.new
+||sheet.new
+||sheets.new
+||spreadsheet.new
+||site.new
+||sites.new
+||website.new
+||slides.new
+||deck.new
+||presentation.new
 ||translate.googleapis.com
 ||maps.googleapis.com
 !###https://www.google.com/supported_domains###
@@ -1931,7 +1944,6 @@ asg.to
 atgfw.org
 .atlaspost.com
 ||atlaspost.com
-||atdmt.com
 .atlanta168.com
 ||atlanta168.com
 .atnext.com
@@ -2292,6 +2304,8 @@ bwsj.hk
 ||bypasscensorship.org
 
 !--------------------CC-------------------------
+||cixiaoya.club
+||campaign-archive.com
 ||chinauncensored.tv
 ||catbox.moe
 ||crosswall.org
@@ -3005,9 +3019,10 @@ xys.dxiong.com
 .dzze.com
 
 !--------------------EE-------------------------
+||edx-cdn.org
 ||everipedia.org
 ||epochtimes.com.tw
-||cn.etherscan.com
+||etherscan.com
 ||elconfidencial.com
 ||e-classical.com.tw
 ||e-gold.com
@@ -4353,6 +4368,7 @@ ebook.hyread.com.tw
 ||ebook.hyread.com.tw
 
 !--------------------II-------------------------
+||invidio.us
 ||improd.works
 ||illawarramercury.com.au
 ||imago-images.com
@@ -4704,6 +4720,7 @@ juziyue.com
 .jyxf.net
 
 !--------------------KK-------------------------
+||kingkong.com.tw
 ||kanald.com.tr
 ||kpkuang.org
 ||k-doujin.net
@@ -5011,6 +5028,7 @@ lvhai.org
 ||lzmtnews.org
 
 !--------------------MM-------------------------
+||mergersandinquisitions.com
 ||m.moegirl.org
 ||myjs.tw
 ||mercari.com
@@ -6210,6 +6228,8 @@ rutube.ru
 |http://rxhj.net
 
 !--------------------SS-------------------------
+||ssrtool.com
+||ssrshare.us
 ||secure.shadowsocks.nu
 ||synapse.org
 ||south-plus.net
@@ -6719,6 +6739,7 @@ blog.syx86.cn/2009/09/puff
 .szetowah.org.hk
 
 !--------------------TT-------------------------
+||tunein.streamguys1.com
 ||tou.tv
 ||tinyurl.com
 ||textnow.com
@@ -8207,10 +8228,10 @@ zyzc9.com
 @@||storage.googleapis.com
 @@||update.googleapis.com
 @@||safebrowsing.googleapis.com
-!--@@||connectivitycheck.gstatic.com
-!--@@||csi.gstatic.com
-!--@@||fonts.gstatic.com
-!--@@||ssl.gstatic.com
+@@||connectivitycheck.gstatic.com
+@@||csi.gstatic.com
+@@||fonts.gstatic.com
+@@||ssl.gstatic.com
 @@||haosou.com
 @@||ip.cn
 @@||jike.com
