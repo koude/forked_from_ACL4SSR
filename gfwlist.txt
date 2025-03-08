@@ -1,9 +1,9 @@
 [AutoProxy 0.2.9]
-! Checksum: r/DDUt7HqDm+E/FNFPNUyg
+! Checksum: BVX/1CStp0Pho5NHGpgKfg
 ! Expires: 6h
 ! Title: GFWList4LL
 ! GFWList with EVERYTHING included
-! Last Modified: Fri, 07 Mar 2025 18:20:58 +0800
+! Last Modified: Sat, 08 Mar 2025 09:22:12 +0800
 !
 ! HomePage: https://github.com/gfwlist/gfwlist
 ! License: https://www.gnu.org/licenses/old-licenses/lgpl-2.1.txt
@@ -5029,6 +5029,7 @@ lvhai.org
 ||lzmtnews.org
 
 !--------------------MM-------------------------
+||musixmatch.com
 ||mergersandinquisitions.com
 ||m.moegirl.org
 ||myjs.tw
@@ -8199,6 +8200,8 @@ zyzc9.com
 !#############Supplemental List End#############
 
 !################Whitelist Start################
+@@||www.ettoday.net
+
 @@||aliyun.com
 @@||baidu.com
 @@||chinaso.com
